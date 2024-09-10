@@ -10,7 +10,7 @@ To keep my skills sharp and versatile, I also take on frontend projects in my sp
 
 Feel free to explore my repositories to see what I'm currently working on!
 
-- 📝 I have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/)
+- 📝 I also have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/) :)
 
 <h4 align="left">Programming Languages: </h4>
 <p align="left">
@@ -35,18 +35,3 @@ Feel free to explore my repositories to see what I'm currently working on!
 <h4 align="center">Omar MaXaMeD</h4>
  </p>
 
-<!--
-**MohammedOmar3/MohammedOmar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔗 I have a personal website at [link](link) where all my social networks are located! You can reach me anywhere over there!
--->
