@@ -1,15 +1,20 @@
 <p align='center'>
-  <img  src="https://github.com/MohammedOmar3/MohammedOmar3/blob/main/logo.png" alt="img">
+  <img  src="https://github.com/MohammedOmar3/MohammedOmar3/blob/main/logo.png" alt="https://omohammed.hashnode.dev/">
 </p>
 
-## Hi there 👋
+## Hi there 👋, It's Mohammed
+You're probably wondering where OMXMD comes from, simply put it's my name in Somali but shortened. 
+
+<h2 align="center">Omar MaXaMeD</h2>
 
 ### About me:
 
-- I’m currently working at Symology @UK
-- Working as a Software Developer, mainly focussing on backend but taking frontend projects to build my portfolio.
+I'm a passionate Software Developer working at Symology, where I primarily focus on backend development. My work involves building scalable and efficient systems, solving complex problems, and ensuring smooth integration between services.
 
-I love to talk to people and discuss tech! You can reach me out on any channels below!
+To keep my skills sharp and versatile, I also take on frontend projects in my spare time. I believe in the importance of being a well-rounded developer, so I continuously explore the latest frontend technologies and tools to stay updated and refine my expertise.
+
+Feel free to explore my repositories to see what I'm currently working on!
+
 
 - 📝 I have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/)
 
