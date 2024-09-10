@@ -4,7 +4,7 @@
 
 ## Hi there 👋, It's Mohammed
 You're probably wondering where OMXMD comes from. Simply put, it's a unique blend of my name in Somali, shortened for style and simplicity.
-<h4 align="center">'O'mar 'M'a'X'a'M'e'D'</h4>
+<h4 align="center">Omar MaXaMeD</h4>
 
 ### About me:
 
