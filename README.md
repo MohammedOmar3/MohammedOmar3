@@ -4,8 +4,6 @@
 
 ## Welcome
 
-### About me:
-
 I'm a passionate Software Developer working at Symology, where I primarily focus on backend development. My work involves building scalable and efficient systems, solving complex problems, and ensuring smooth integration between services.
 
 To keep my skills sharp and versatile, I also take on frontend projects in my spare time. I believe in the importance of being a well-rounded developer, so I continuously explore the latest frontend technologies and tools to stay updated and refine my expertise.
@@ -33,8 +31,10 @@ Feel free to explore my repositories to see what I'm currently working on!
   <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<p align="center"> (p.s. You're probably wondering where OMXMD comes from. Simply put, it's a unique blend of my name in Somali, shortened for style and simplicity.) </p>
+<p align="center">
+ (p.s. You're probably wondering where OMXMD comes from. Simply put, it's a unique blend of my name in Somali, shortened for style and simplicity.) 
 <h4 align="center">Omar MaXaMeD</h4>
+ </p>
 
 <!--
 **MohammedOmar3/MohammedOmar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
