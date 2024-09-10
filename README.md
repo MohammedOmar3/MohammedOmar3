@@ -4,14 +4,13 @@
 
 ## Welcome
 
-I'm a passionate Software Developer working at Symology, where I primarily focus on backend development. My work involves building scalable and efficient systems, solving complex problems, and ensuring smooth integration between services.
+I'm a Software Developer at Symology, where I focus on enhancing and expanding an advanced asset management software. My work revolves around building new features and solutions that integrate seamlessly into the system, optimizing performance, and making things run smoother in the background.
 
 To keep my skills sharp and versatile, I also take on frontend projects in my spare time. I believe in the importance of being a well-rounded developer, so I continuously explore the latest frontend technologies and tools to stay updated and refine my expertise.
 
 Feel free to explore my repositories to see what I'm currently working on!
 
 - 📝 I have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/)
-
 
 <h4 align="left">Programming Languages: </h4>
 <p align="left">
