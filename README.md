@@ -3,9 +3,8 @@
 </p>
 
 ## Hi there 👋, It's Mohammed
-You're probably wondering where OMXMD comes from, simply put it's my name in Somali but shortened. 
-
-<h2 align="center">Omar MaXaMeD</h2>
+You're probably wondering where OMXMD comes from. Simply put, it's a unique blend of my name in Somali, shortened for style and simplicity.
+<h4 align="center">'O'mar 'M'a'X'a'M'e'D'</h4>
 
 ### About me:
 
@@ -14,7 +13,6 @@ I'm a passionate Software Developer working at Symology, where I primarily focus
 To keep my skills sharp and versatile, I also take on frontend projects in my spare time. I believe in the importance of being a well-rounded developer, so I continuously explore the latest frontend technologies and tools to stay updated and refine my expertise.
 
 Feel free to explore my repositories to see what I'm currently working on!
-
 
 - 📝 I have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/)
 
