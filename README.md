@@ -12,6 +12,15 @@ Feel free to explore my repositories to see what I'm currently working on!
 
 - 📝 I also have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/) :)
 
+## Projects 
+# Currently working on:
+- Hadith Fetcher Web App
+
+# Upcoming projects:
+- Personal portfolio website
+- Quran web app
+- Global youtube video chat room
+
 <h4 align="left">Programming Languages: </h4>
 <p align="left">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;&nbsp;
