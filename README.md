@@ -13,10 +13,10 @@ Feel free to explore my repositories to see what I'm currently working on!
 - 📝 I also have a blog at [https://omohammed.hashnode.dev/](https://omohammed.hashnode.dev/) :)
 
 ## Projects 
-# Currently working on:
+### Currently working on:
 - Hadith Fetcher Web App
 
-# Upcoming projects:
+### Upcoming projects:
 - Personal portfolio website
 - Quran web app
 - Global youtube video chat room
