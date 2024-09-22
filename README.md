@@ -14,10 +14,10 @@ Feel free to explore my repositories to see what I'm currently working on!
 
 ## Projects 
 ### Currently working on:
-- Hadith Fetcher Web App
+- Hadith Fetcher Web App (Completed as of now, will be adding more feature in the upcoming future)
+- Personal portfolio website
 
 ### Upcoming projects:
-- Personal portfolio website
 - Quran web app
 - Global youtube video chat room
 
