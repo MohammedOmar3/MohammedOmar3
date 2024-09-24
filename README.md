@@ -16,9 +16,10 @@ Feel free to explore my repositories to see what I'm currently working on!
 ### Currently working on:
 - Hadith Fetcher Web App (Completed as of now, will be adding more feature in the upcoming future)
 - Personal portfolio website
+- Quran web app
 
 ### Upcoming projects:
-- Quran web app
+- Website for my local masjid.
 - Global youtube video chat room
 
 <h4 align="left">Programming Languages: </h4>
