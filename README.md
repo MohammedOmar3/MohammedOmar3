@@ -21,6 +21,8 @@ Feel free to explore my repositories to see what I'm currently working on!
 
 ### Upcoming projects:
 - Global youtube video chat room
+- Full stack e-commerce web
+- Compiler
 
 <h4 align="left">Programming Languages: </h4>
 <p align="left">
