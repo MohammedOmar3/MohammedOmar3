@@ -18,11 +18,11 @@ Feel free to explore my repositories to see what I'm currently working on!
 - Personal portfolio website
 - Quran web app
 - Website for my local masjid.
+- Compiler
 
 ### Upcoming projects:
 - Global youtube video chat room
 - Full stack e-commerce web
-- Compiler
 - Responsive websites with bootstrap.
 
 <h4 align="left">Programming Languages: </h4>
